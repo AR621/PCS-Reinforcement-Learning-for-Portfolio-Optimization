@@ -3,4 +3,6 @@ Simple RL epxloration for portfolio optimization problem
 
 Created using Python 3.11.8
 
-'pip install -r requirements.pip'
+To use install requiremnets using:
+`pip install -r requirements.pip`
+note: torch version is cpu in requirements, it's advised to install version with gpu acceleration to facilitate faster training.
